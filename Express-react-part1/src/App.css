@@ -1,0 +1,100 @@
+.widgetBox .container {
+  width: 33%;
+  margin: 100px auto;
+
+}
+
+.main-box {
+  padding: 30px;
+}
+
+.button-box {
+  margin-top: 20px;
+}
+
+.button-box button {
+  width: 100%;
+}
+
+.pb-3 {
+  padding-bottom: 3px;
+}
+
+.pb-20 {
+  padding-bottom: 20px;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+.fw-6 {
+  font-weight: 600;
+}
+
+.forgot a,
+.signUp a {
+  font-size: 16px;
+  padding: 10px 0px;
+  text-decoration: none;
+  color: #1976D2;
+}
+
+.forgot a,
+.signUp a:hover {
+  text-decoration: underline;
+}
+
+
+
+.text-center {
+  text-align: center;
+}
+
+.pt-20 {
+  padding-top: 20px;
+}
+
+.submit-button:disabled {
+  background-color: #d3d3d3;
+  color: #a9a9a9;
+  cursor: not-allowed;
+}
+
+.editorBox {
+  border: 1px solid #d3d3d3;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.jodHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 30px;
+}
+
+.jobName {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.jobBox {
+  padding: 20px;
+}
+
+.jobDetail {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  align-items: center;
+  padding-top: 20px;
+}
+
+.jobDetail span {
+  background-color: aliceblue;
+  color: #979696;
+  padding: 4px 12px;
+  border-radius: 20px;
+}
